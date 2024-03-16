@@ -343,9 +343,11 @@ body {
   /* Adding a subtle shadow for depth */
 }
 .accordion-title {
+  color: #474753;
+  font-weight:600;
   margin-left: 10px;
   font-weight: lighter; /* Make the font lighter */
-  font-size: 1.1em; /* Increase font size */
+  font-size: 1.3em; /* Increase font size */
 }
 .accordion-chevron-icon {
   color: rgb(80, 71, 71) !important;
