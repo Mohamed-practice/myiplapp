@@ -377,6 +377,22 @@ body {
 .bottomtext{
   color: #706f6f;
 }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+th, td {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+th {
+  background-color: #f2f2f2;
+}
+.team-logo {
+  max-width: 15%;
+  height: auto;
+}
 .accordianContainer{
   margin: 0px;
   padding: 0px;
