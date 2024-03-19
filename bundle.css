@@ -110,7 +110,7 @@ body {
 }
 
 .card:hover {
-  transform: scale(1.01);
+  
   /* Adjust the scaling factor for a more subtle effect */
 }
 
