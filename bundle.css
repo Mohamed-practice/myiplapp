@@ -437,6 +437,12 @@ th {
   opacity: 0.5;
 }
 
+/* Disable scrolling when elements are disabled */
+body.disabled-scroll,
+html.disabled-scroll {
+  overflow: hidden;
+}
+
 @media only screen and (min-width: 360px) and (max-height: 740px) {
   th, td {
     padding: 7px;
