@@ -389,6 +389,21 @@ th, td {
 th {
   background-color: #f2f2f2;
 }
+.pointsTable th {
+  background-color: #f0f0f0;
+  color: black;
+
+}
+
+.pointsTable tr:nth-child(even) {
+  background-color: #2d2b2b;
+  color: white;
+}
+
+.pointsTable tr:nth-child(odd) {
+  background-color: #141313;
+  color: white;
+}
 .team-logo {
   max-width: 15%;
   height: auto;
