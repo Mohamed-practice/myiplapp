@@ -363,7 +363,21 @@ body {
   width: 1px;
   background-color: rgb(176, 172, 172);
 }
+table.normalTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
 
+.normalTable th,
+.normalTable td {
+  text-align: left;
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+  }
+.normalTable th {
+  background-color: #f2f2f2;
+}
 .team {
   flex: 0 0 45%;
   max-width: 45%;
@@ -383,7 +397,7 @@ table {
   margin-bottom: 20px;
 }
 th, td {
-  text-align: left;
+  text-align: center;
   padding: 8px;
   border-bottom: 1px solid #ddd;
 }
