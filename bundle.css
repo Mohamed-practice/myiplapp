@@ -423,7 +423,7 @@ th {
   margin-left: 10px; /* Adjust the spacing between the button and the div */
   background: linear-gradient(135deg, rgb(176, 172, 172) 0%, #ffffff 100%); /* Adjust gradient colors as desired */
   color: rgb(22, 21, 21);
-  padding: 7px;
+  padding: 3px;
   border: none;
   border-radius: 5px;
   font-size: 16px;
