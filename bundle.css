@@ -383,7 +383,7 @@ table {
   margin-bottom: 20px;
 }
 th, td {
-  padding: 10px;
+  padding: 8px;
   border-bottom: 1px solid #ddd;
 }
 th {
@@ -445,7 +445,7 @@ html.disabled-scroll {
 
 @media only screen and (min-width: 360px) and (max-height: 740px) {
   th, td {
-    padding: 7px;
+    padding: 5px;
   }
 }
 /* Media Query for device with dimension 390 x 844 */
