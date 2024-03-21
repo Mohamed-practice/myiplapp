@@ -383,9 +383,11 @@ table {
   margin-bottom: 20px;
 }
 th, td {
-  text-align: center;
   padding: 8px;
   border-bottom: 1px solid #ddd;
+}
+.pointsTable th,td{
+  text-align: center;
 }
 th {
   background-color: #f2f2f2;
