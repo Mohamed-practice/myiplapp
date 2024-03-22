@@ -10,7 +10,7 @@ const l=[[[0,1],"Match 1: ♻️",`<li class="fas fa-history" style="margin-bott
         </tr>
         <tr>
             <td><img class="team-logo" src="images/logo_0.png" alt="Logo"></td>
-            <td>176/4 (20)</td>
+            <td>176/4 (18.4)</td>
         </tr>
     </tbody>
 </table>`],
