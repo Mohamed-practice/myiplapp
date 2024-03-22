@@ -34,7 +34,7 @@ const l=[[[0,1],"Match 1: CSk won.",`<li class="fas fa-history" style="margin-bo
 [[4,1],"Match 19: 6 Apr Sat 7:30, Jaipur","The innings hasn't begun yet! 🏏"],
 [[2,5],"Match 20: 7 Apr Sun 3:30, Mumbai","The innings hasn't begun yet! 🏏"],
 [[8,6],"Match 21: 7 Apr Sun 7:30, Lucknow","The innings hasn't begun yet! 🏏"]],
-c=[["CSK",0,0,0,"+0.000",0],
+c=[["CSK",0,0,0,"+0.000",2],
 ["RCB",0,0,0,"+0.000",0],
 ["MI",0,0,,0,"+0.000",0],
 ["KKR",0,0,0,"+0.000",0],
