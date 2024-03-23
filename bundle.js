@@ -15,7 +15,7 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>
 <p>A team effort from the CSK batters helped them chase down a target of 174 with relative ease.</p>`],
-[[9,5],"Match 2: 🔰, Mohali",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+[[9,5],"Match 2: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
 <p>Punjab kings won by 4 wickets! <i class="fas fa-trophy"></i></p>
 <table class="normalTable">
     <tbody>
