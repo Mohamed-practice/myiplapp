@@ -15,7 +15,7 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>
 <p>A team effort from the CSK batters helped them chase down a target of 174 with relative ease.</p>`],
-[[9,5],"Match 2: 23 Mar Sat 3:30 PM, Mohali","The innings hasn't begun yet! arish"],
+[[9,5],"Match 2: 23 Mar Sat 3:30 PM, Mohali","Match in progress....."],
 [[3,7],"Match 3: 23 Mar Sat 7:30 PM, Kolkata","The innings hasn't begun yet! 🏏"],
 [[4,8],"Match 4: 24 Mar Sun 3:30 PM, Jaipur","The innings hasn't begun yet! 🏏"],
 [[6,2],"Match 5: 24 Mar Sun 7:30 PM, Ahmedabad","The innings hasn't begun yet! 🏏"],
