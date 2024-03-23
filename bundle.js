@@ -15,7 +15,21 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>
 <p>A team effort from the CSK batters helped them chase down a target of 174 with relative ease.</p>`],
-[[9,5],"Match 2: 23 Mar Sat 3:30 PM, Mohali","Match in progress....."],
+[[9,5],"Match 2: 🔰, Mohali",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+<p>Punjab kings won by 4 wickets! <i class="fas fa-trophy"></i></p>
+<table class="normalTable">
+    <tbody>
+        <tr>
+            <td><img class="team-logo" src="images/logo_5.png" alt="Logo"></td>
+            <td>174/9 (20)</td>
+        </tr>
+        <tr>
+            <td><img class="team-logo" src="images/logo_9.png" alt="Logo"></td>
+            <td>177/6 (19.2)</td>
+        </tr>
+    </tbody>
+</table>
+`],
 [[3,7],"Match 3: 23 Mar Sat 7:30 PM, Kolkata","The innings hasn't begun yet! 🏏"],
 [[4,8],"Match 4: 24 Mar Sun 3:30 PM, Jaipur","The innings hasn't begun yet! 🏏"],
 [[6,2],"Match 5: 24 Mar Sun 7:30 PM, Ahmedabad","The innings hasn't begun yet! 🏏"],
