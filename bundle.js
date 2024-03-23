@@ -30,7 +30,20 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>
 `],
-[[3,7],"Match 3: 23 Mar Sat 7:30 PM, Kolkata","The innings hasn't begun yet! 🏏"],
+[[3,7],"Match 3: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+<p>oops KKR won by 4 runs! <i class="fas fa-trophy"></i></p>
+<table class="normalTable">
+    <tbody>
+        <tr>
+            <td><img class="team-logo" src="images/logo_3.png" alt="Logo"></td>
+            <td>208/7 (20)</td>
+        </tr>
+        <tr>
+            <td><img class="team-logo" src="images/logo_7.png" alt="Logo"></td>
+            <td>204/7 (20)</td>
+        </tr>
+    </tbody>
+</table>`],
 [[4,8],"Match 4: 24 Mar Sun 3:30 PM, Jaipur","The innings hasn't begun yet! 🏏"],
 [[6,2],"Match 5: 24 Mar Sun 7:30 PM, Ahmedabad","The innings hasn't begun yet! 🏏"],
 [[1,9],"Match 6: 25 Mar Mon 7:30, Bengaluru","The innings hasn't begun yet! 🏏"],
