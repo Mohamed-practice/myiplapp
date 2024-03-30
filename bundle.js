@@ -103,8 +103,35 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
         </tr>
     </tbody>
 </table>`],
-[[4,5],"Match 9: 28 Mar Thu 7:30, Jaipur","The innings hasn't begun yet! 🏏"],
-[[1,3],"Match 10: 29 Mar Fri 7:30, Bengaluru","The innings hasn't begun yet! 🏏"],
+[[4,5],"Match 9: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+<p>RR win by 7 runs! <i class="fas fa-trophy"></i></p>
+<table class="normalTable">
+    <tbody>
+        <tr>
+            <td><img class="team-logo" src="images/logo_4.png" alt="Logo"></td>
+            <td>183/5 (20)</td>
+        </tr>
+        <tr>
+            <td><img class="team-logo" src="images/logo_5.png" alt="Logo"></td>
+            <td>175/5 (20)</td>
+        </tr>
+    </tbody>
+</table>
+`],
+[[1,3],"Match 10: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+<p>KKR win by 7 Wickets! <i class="fas fa-trophy"></i></p>
+<table class="normalTable">
+    <tbody>
+        <tr>
+            <td><img class="team-logo" src="images/logo_1.png" alt="Logo"></td>
+            <td>182/6 (20)</td>
+        </tr>
+        <tr>
+            <td><img class="team-logo" src="images/logo_3.png" alt="Logo"></td>
+            <td>186/3 (16.4)</td>
+        </tr>
+    </tbody>
+</table>`],
 [[8,9],"Match 11: 30 Mar Sat 7:30, Lucknow","The innings hasn't begun yet! 🏏"],
 [[6,7],"Match 12: 31 Mar Sun 3:30, Ahmedabad","The innings hasn't begun yet! 🏏"],
 [[5,0],"Match 13: 31 Mar Sun 7:30, Vishakapatnam","The innings hasn't begun yet! 🏏"]
