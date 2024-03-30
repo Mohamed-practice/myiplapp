@@ -45,7 +45,7 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>`],
 [[4,8],"Match 4: 24 Mar Sun 3:30 PM, Jaipur","The innings hasn't begun yet! 🏏"],
-[[6,2],"Match 5: 24 Mar Sun 7:30 PM, Ahmedabad", `<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+[[6,2],"Match 5: 🔰", `<li class="fas fa-history" style="margin-bottom: 1%;"></li>
 <p>GT win by 6 runs! <i class="fas fa-trophy"></i></p>
 <table class="normalTable">
     <tbody>
@@ -60,7 +60,7 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>`
 ],
-[[1,9],"Match 6: 25 Mar Mon 7:30, Bengaluru",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+[[1,9],"Match 6: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
 <p>RCB win by 4 wickets! <i class="fas fa-trophy"></i></p>
 <table class="normalTable">
     <tbody>
@@ -75,8 +75,34 @@ const l=[[[0,1],"Match 1: 🔰",`<li class="fas fa-history" style="margin-bottom
     </tbody>
 </table>
 `],
-[[0,6],"Match 7: 26 Mar Tue 7:30, Chennai","The innings hasn't begun yet! 🏏"],
-[[7,2],"Match 8: 27 Mar Wed 7:30, Hyderabad","The innings hasn't begun yet! 🏏"],
+[[0,6],"Match 7: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+<p>CSK win by 63 runs! <i class="fas fa-trophy"></i></p>
+<table class="normalTable">
+    <tbody>
+        <tr>
+            <td><img class="team-logo" src="images/logo_0.png" alt="Logo"></td>
+            <td>206/6 (20)</td>
+        </tr>
+        <tr>
+            <td><img class="team-logo" src="images/logo_6.png" alt="Logo"></td>
+            <td>143/8 (20)</td>
+        </tr>
+    </tbody>
+</table>`],
+[[7,2],"Match 8: 🔰",`<li class="fas fa-history" style="margin-bottom: 1%;"></li>
+<p>SRH win by 31 runs! <i class="fas fa-trophy"></i></p>
+<table class="normalTable">
+    <tbody>
+        <tr>
+            <td><img class="team-logo" src="images/logo_7.png" alt="Logo"></td>
+            <td>277/3 (20)</td>
+        </tr>
+        <tr>
+            <td><img class="team-logo" src="images/logo_2.png" alt="Logo"></td>
+            <td>246/5 (20)</td>
+        </tr>
+    </tbody>
+</table>`],
 [[4,5],"Match 9: 28 Mar Thu 7:30, Jaipur","The innings hasn't begun yet! 🏏"],
 [[1,3],"Match 10: 29 Mar Fri 7:30, Bengaluru","The innings hasn't begun yet! 🏏"],
 [[8,9],"Match 11: 30 Mar Sat 7:30, Lucknow","The innings hasn't begun yet! 🏏"],
